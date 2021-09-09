@@ -1,0 +1,4 @@
+baseURL = "http://ridgelineradio.org/"
+languageCode = "en-us"
+title = "Ridgeline Radio"
+theme = "twenty-twenty"

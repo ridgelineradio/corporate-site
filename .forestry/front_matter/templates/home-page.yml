@@ -1,4 +1,14 @@
 ---
 label: Home Page?
 hide_body: true
-fields: []
+fields:
+- name: hello_
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Hello!
+  description: What goes here?

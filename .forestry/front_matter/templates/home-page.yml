@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: Hello!
   description: What goes here?
+pages:
+- content/_index.md
